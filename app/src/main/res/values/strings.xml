@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">moviz</string>
+    <string name="connected">Connected</string>
+    <string name="error_canceled">Error : authentification canceled</string>
+    <string name="no_internet">Error : no internet</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>

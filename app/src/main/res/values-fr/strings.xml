@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">moviz</string>
+    <string name="connected">Connecté</string>
+    <string name="error_canceled">Erreur : authentification annulée</string>
+    <string name="no_internet">Erreur : pas de connecsion réseau</string>
+    <string name="unknown_error">Erreur inconnnue</string>
+</resources>

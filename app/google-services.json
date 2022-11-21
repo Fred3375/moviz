@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364489374492",
+    "project_id": "moviz-a81cf",
+    "storage_bucket": "moviz-a81cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364489374492:android:9131767db7b446430598d9",
+        "android_client_info": {
+          "package_name": "com.dam.moviz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364489374492-god4v5gvn1tnn65kheckavhqvfhsfth2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqvl-DmO8B5cIODY1DpYxSO_FJ90Blve8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364489374492-god4v5gvn1tnn65kheckavhqvfhsfth2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
